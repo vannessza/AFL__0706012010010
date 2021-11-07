@@ -1,0 +1,35 @@
+body {
+    font-family: 'Inter', sans-serif !important;
+}
+
+h1,
+h2,
+h3 {
+    font-weight: 800;
+}
+
+p,
+.active {
+    font-weight: 400;
+}
+th{
+    color: white;
+}
+.image_profile{
+    width: 200px;
+    height: 300px;
+}
+.image_details{
+    width: 150px;
+    height: 200px;
+}
+.details_card{
+    max-width: 150px;
+    max-height: 200px;
+}
+.list_mahasiswa{
+    width:  18rem;
+}
+.icon{
+    width: 20px;
+}
